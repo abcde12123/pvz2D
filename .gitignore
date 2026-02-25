@@ -1,0 +1,19 @@
+# 资源生成的临时文件夹
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE 相关
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# 虚幻自动生成的备份
+FileOpenOrder/
